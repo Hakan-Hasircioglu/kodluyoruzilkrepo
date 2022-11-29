@@ -9,7 +9,7 @@ Bu repo [kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimi k
 https://github.com/Hakan-Hasircioglu/kodluyoruzilrepo.git
 ```
 
-![github.png](Adsız.png)
+![github.png](figures/Adsız.png)
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
